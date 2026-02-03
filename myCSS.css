@@ -12,7 +12,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #60D6EB;
+	background: #4D1510;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -37,7 +37,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #6F7F99;
+	background: #EAAD5D;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -45,10 +45,10 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #EAAD5D;
+     color: #4D1510;
 }
 a:visited {
-     color: #4D1510;
+     color: #EAAD5D;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
