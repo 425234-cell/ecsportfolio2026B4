@@ -45,10 +45,10 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #4D1510;
+     color: #60D6EB;
 }
 a:visited {
-     color: #EAAD5D;
+     color: #4D1510;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
